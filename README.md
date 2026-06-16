@@ -1,6 +1,6 @@
 ![BTS Flight Delay Analysis](visualizations/creative_banner.png)
 
-# ✈️ BTS Flight Delay Analysis
+#  BTS Flight Delay Analysis
 ### Big Data Management Assignment — MSc Data Science & Analytics
 
 ---
