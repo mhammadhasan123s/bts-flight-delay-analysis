@@ -284,30 +284,10 @@ Paste `scripts/phoenix/create_views.sql`
 
 ## Author
 
-**[Your Name]**
+**[Mhamad Shhab Aldeen Hasan]**
 MSc Data Science and Analytics
-[Your University]
-Student ID: [Your ID]
+[Universiti Kebangsaan Malaysia (UKM)]
+Student ID: [P166175]
 
 ---
 
-## License
-
-MIT License
-````
-
-6. Click **Commit changes**
-
----
-
-## ✅ What this README now has
-
-| Section | Content |
-|---------|---------|
-| Banner image | creative_banner.png from visualizations/ |
-| BTS download button | Badge linking to official BTS website |
-| Lookup table links | Direct links to files in data/lookup/ |
-| Pipeline flowchart | pipeline_flowchart.png from visualizations/ |
-| All 6 chart images | Correct paths to visualizations/ folder |
-| Full repo structure | Updated with all actual folders |
-| Reproduce steps | Complete step by step guide |
