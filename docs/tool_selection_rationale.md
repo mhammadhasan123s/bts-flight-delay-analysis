@@ -1,14 +1,3 @@
-markdown# Updated tool_selection_rationale.md — Complete File
-
-## Steps
-
-1. Go to your repository on GitHub
-2. Click on **docs** folder
-3. Click on **tool_selection_rationale.md**
-4. Click the **pencil icon** to edit
-5. Select all and delete everything
-6. Paste this complete updated file:
-
 ```markdown
 # Tool Selection Rationale
 ## BTS Flight Delay Analysis — December 2025
