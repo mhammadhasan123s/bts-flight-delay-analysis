@@ -280,7 +280,6 @@ Paste `scripts/phoenix/create_views.sql`
 | System | Type | Why Chosen |
 |--------|------|------------|
 | HBase | CP — Consistent + Partition tolerant | Airport stats must be accurate — wrong data misleads passengers |
-| Cassandra | AP — Available + Partition tolerant | Would choose for 24/7 availability requirement |
 
 ---
 
