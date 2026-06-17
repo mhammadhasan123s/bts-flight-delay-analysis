@@ -162,13 +162,7 @@ using the complete Hadoop ecosystem.
 ### Confusion Matrix
 ![Confusion Matrix](visualizations/chart7_confusion_matrix.png)
 
----
 
-## Repository Structure
-bts-flight-delay-analysis/ | |-- README.md | |-- visualizations/ | |-- creative_banner.png | |-- pipeline_flowchart.png | |-- delay_dashboard.png | |-- carrier_performance_heatmap.png | |-- cancellation_risk_map.png | |-- delay_cause_by_carrier.png | |-- chart6_feature_importance.png | |-- chart7_confusion_matrix.png | |-- scripts/ | |-- pig/ | | |-- flight_cleaning.pig | |-- python/ | | |-- clean_flights.py | |-- hive/ | | |-- create_tables.hql | | |-- analysis_queries.hql | |-- hbase/ | | |-- create_tables.txt | |-- phoenix/ | | |-- create_views.sql | |-- notebooks/ | |-- BTS_Flight_Delay_Analysis_Visualizations.ipynb | |-- BTS_Flight_Delay_Spark_ML.ipynb | |-- docs/ | |-- tool_selection_rationale.md | |-- pipeline_architecture.md | |-- data_dictionary.md | |-- data/ | |-- lookup/ | | |-- L_AIRPORT_ID.csv | | |-- L_CANCELLATION.csv | | |-- L_UNIQUE_CARRIERS.csv | |-- samples/ | | |-- sample_5rows.csv
-
-
----
 
 ## How to Reproduce This Project
 
